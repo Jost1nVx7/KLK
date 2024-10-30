@@ -11,6 +11,7 @@ package espoch.edu.ec.mavenproject5;
 public class Mavenproject5 {
 
     public static void main(String[] args) {
-        System.out.println("SUMAR Y RESTAR");
+        System.out.println("KLK");
+        System.out.println("se cambio");
     }
 }
